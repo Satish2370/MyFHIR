@@ -1,0 +1,34 @@
+{
+    "resourceType": "Patient",
+    "name": [
+        {
+            "use":"official",
+            "given": ["Satish"],
+            "family": "Padencherry"
+        }
+    ],
+    "gender": "male",
+    "birthDate": "1970-07-23",
+    "telecom": [
+        {
+            "value": "9632111722",
+            "use":"mobile",
+            "system":"phone"
+        },
+        {
+            "system": "email",
+            "value":"satkp@hotmail.com"
+        }
+    ],
+    "address":[
+        {
+            "line":[
+                "85, 8th cross, 6th block, nagarbhavi 2nd stage"
+            ],
+            "city":"Bangalore",
+            "state":"Karnataka",
+            "postalCode":"560072"
+        }
+    ]
+
+}
